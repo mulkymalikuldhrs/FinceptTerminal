@@ -2129,3 +2129,9 @@ The architecture supports rapid development while maintaining production-quality
 
 **Questions?** Open an issue or discussion on GitHub!
 **Repository:** https://github.com/Fincept-Corporation/FinceptTerminal/
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

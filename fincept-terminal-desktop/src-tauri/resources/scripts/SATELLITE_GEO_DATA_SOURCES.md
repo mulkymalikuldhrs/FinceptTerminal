@@ -197,3 +197,9 @@ trends = get_current_trends(region='gulf_stream', years=10)
 ---
 
 **Total Sources**: 4 providers | **Free Access**: 2 sources | **Coverage**: Global | **Applications**: Climate, Maritime, Disaster Response | **Last Updated**: 2025-12-28
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

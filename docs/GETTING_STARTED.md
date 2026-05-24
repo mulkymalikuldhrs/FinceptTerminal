@@ -1005,3 +1005,9 @@ Welcome to the team. Let's build something amazing together! 🚀
 → Pick an issue: https://github.com/Fincept-Corporation/FinceptTerminal/issues
 → Read your role guide: PYTHON_INTERN_GUIDE.md / TYPESCRIPT_INTERN_GUIDE.md / RUST_INTERN_GUIDE.md
 → Join the mission! ⭐
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

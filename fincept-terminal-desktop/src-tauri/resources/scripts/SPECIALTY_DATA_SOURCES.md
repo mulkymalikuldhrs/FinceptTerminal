@@ -213,3 +213,9 @@ historical_pe = get_pe_ratio(index='sp500')
 ---
 
 **Total Sources**: 7 (4 data + 3 tools) | **Free Access**: 6 sources | **Unique Features**: Technicals, Reports, Financial math | **Last Updated**: 2025-12-28
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

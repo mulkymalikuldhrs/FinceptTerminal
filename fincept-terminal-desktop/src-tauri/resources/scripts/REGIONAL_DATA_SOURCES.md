@@ -164,3 +164,9 @@ asia_gdp = get_key_indicators(country='CHN', indicator='GDP_GROWTH')
 ---
 
 **Total Sources**: 5 (3 countries + 2 regional orgs) | **Free Access**: 4 sources | **Coverage**: 100+ countries | **Last Updated**: 2025-12-28
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

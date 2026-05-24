@@ -238,3 +238,9 @@ Researchers at accredited institutions:
 **Version**: 1.0
 
 For the latest information, visit: https://fincept.in/licensing
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

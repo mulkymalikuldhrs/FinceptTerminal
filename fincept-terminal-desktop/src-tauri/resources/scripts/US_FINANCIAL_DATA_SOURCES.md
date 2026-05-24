@@ -179,3 +179,9 @@ petroleum_data = get_bulk_data(category='petroleum', series='all')
 ---
 
 **Total Sources**: 4 agencies | **Free Access**: 3 sources | **Unique Coverage**: SEC filings, Treasury data, Energy stats | **Last Updated**: 2025-12-28
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

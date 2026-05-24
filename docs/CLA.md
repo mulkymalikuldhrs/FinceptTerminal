@@ -309,3 +309,9 @@ For the latest version of this Agreement, visit:
 ---
 
 **© 2025 Fincept Corporation. All rights reserved.**
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

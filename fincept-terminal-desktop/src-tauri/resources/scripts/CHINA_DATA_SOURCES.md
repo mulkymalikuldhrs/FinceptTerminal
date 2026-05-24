@@ -173,3 +173,9 @@ pip install akshare
 ---
 
 **Total Modules**: 9 (8 AkShare + 1 official stats) | **Free Access**: All sources | **Markets**: A-shares, HK, Futures, Bonds | **Last Updated**: 2025-12-28
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

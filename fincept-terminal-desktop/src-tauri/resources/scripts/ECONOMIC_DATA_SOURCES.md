@@ -130,3 +130,9 @@ unemployment = get_dataset('UNEMP', country='USA+GBR+DEU')
 ---
 
 **Total Sources**: 11 organizations | **Free Access**: 8 sources | **Last Updated**: 2025-12-28
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

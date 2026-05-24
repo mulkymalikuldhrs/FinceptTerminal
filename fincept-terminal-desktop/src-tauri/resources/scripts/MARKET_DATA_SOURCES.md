@@ -161,3 +161,9 @@ cot = get_cot_report(commodity='gold')
 ---
 
 **Total Sources**: 9 providers | **Free Access**: 4 sources | **Real-time Data**: 5 sources | **Last Updated**: 2025-12-28
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

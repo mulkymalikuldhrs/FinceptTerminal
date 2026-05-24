@@ -210,3 +210,9 @@ Every contribution helps! Even fixing a typo makes the project better. Welcome a
 ---
 
 **Happy coding! 🚀**
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

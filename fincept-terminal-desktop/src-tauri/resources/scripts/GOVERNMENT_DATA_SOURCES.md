@@ -70,3 +70,9 @@ python universal_ckan_api.py --country us --action search_datasets --query "clim
 ---
 
 **Total Sources**: 19 countries/portals | **CKAN Portals**: 8 via universal wrapper | **Last Updated**: 2025-12-28
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)
